@@ -75,7 +75,7 @@ The goal of this project is to develop a simple Database Management System (DBMS
 
 ## Contributors:
 
-- [mahmudhmh]
+- [Mahmoud Hussien Mahmoud](https://www.github.com/mahmudhmh)
 
 ## License:
 
