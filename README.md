@@ -1,4 +1,5 @@
 # Bash Shell Script Database Management System (DBMS)
+![MainMenu](https://github.com/mahmudhmh/ShellScript-DBMS/assets/54104161/ef1e390e-513a-48aa-838b-602c1b542915)
 
 ## Project Overview:
 
